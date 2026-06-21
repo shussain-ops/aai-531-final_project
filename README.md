@@ -55,7 +55,7 @@ data/raw/creditcard.csv
 3. Or download using Kaggle API:
 
 ```bash
-set KAGGLE_USERNAME=codetrickle
+set KAGGLE_USERNAME=your_kaggle_username
 set KAGGLE_KEY=your_kaggle_api_key
 python src/data_download.py
 ```
